@@ -442,3 +442,7 @@ res[505]({foo:'bar'}, 'message');
 ```
 
 ---
+
+## License
+
+MIT
