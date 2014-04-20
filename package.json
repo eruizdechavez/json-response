@@ -1,0 +1,16 @@
+{
+  "name": "json-response",
+  "version": "0.0.1",
+  "description": "API-ish JSON response for express using basic fields (status, data, message). DRY.",
+  "main": "json-response.js",
+  "scripts": {
+    "test": "node foo.js"
+  },
+  "keywords": [
+    "express",
+    "json",
+    "response"
+  ],
+  "author": "Erick Ruiz de Chavez <erickrdch@icloud.com>",
+  "license": "MIT"
+}
