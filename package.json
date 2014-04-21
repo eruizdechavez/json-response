@@ -2,6 +2,26 @@
   "name": "json-response",
   "version": "0.0.1",
   "description": "API-ish JSON response for express using basic fields (status, data, message). DRY.",
+  "homepage": "https://github.com/erickrdch/json-response",
+  "author": {
+    "name": "Erick Ruiz de Chavez",
+    "email": "erickrdch@icloud.com",
+    "url": "http://erickrdch.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/erickrdch/json-response.git"
+  },
+  "bugs": {
+    "url": "https://github.com/erickrdch/json-response/issues"
+  },
+  "licenses": [{
+    "type": "MIT",
+    "url": "https://github.com/erickrdch/json-response/blob/master/LICENSE"
+  }],
+  "engines": {
+    "node": ">= 0.10.0"
+  },
   "main": "json-response.js",
   "scripts": {
     "test": "node foo.js"
@@ -10,7 +30,5 @@
     "express",
     "json",
     "response"
-  ],
-  "author": "Erick Ruiz de Chavez <erickrdch@icloud.com>",
-  "license": "MIT"
+  ]
 }
