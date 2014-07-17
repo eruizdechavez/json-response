@@ -56,7 +56,7 @@ httpStatus.forEach(function(status) {
         length, nameArr;
 
     var respond = function(data, message) {
-        return this.send(this.response(code, data, message));
+        return this.send(code, this.response(code, data, message));
     };
 
     res[code] = respond;
