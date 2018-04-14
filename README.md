@@ -1,5 +1,10 @@
-json-response
-=============
+No longer maintained
+====================
+
+Interested? Send me an email to erick@erch.co.
+
+
+## json-response
 
 API-ish JSON response for express using basic fields (status, data, message). DRY.
 
